@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Owais</h1>
 
-<h2 align="center">
+<h3 align="center">
   BSc. Aerospace Engineering Student @ Orta Doğu Teknik Üniversitesi | 
-  <br>
   <!-- ADD RESUME LINK -->
   <a href="" target="_blank">Resume</a>
-</h2>
+</h3>
 
 <p align="center">
 <img src="Images/banner.png" width=100%>
