@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owais</h1>
 
 <h3 align="center">
-  BSc. Aerospace Engineering Student @ Orta Doğu Teknik Üniversitesi | 
+  B.S. Aerospace Engineering Student @ Orta Doğu Teknik Üniversitesi | 
   <!-- ADD RESUME LINK -->
   <a href="https://github.com/aerowais/aerowais/blob/787751e27920bc9420f534e222a3e20ee76e4fa4/MUHAMMAD_OWAIS_USMAN_RESUME.pdf" target="_blank">Resume</a>
 </h3>
