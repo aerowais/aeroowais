@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="Images/5.jpg" width=100%>
+<img src="Images/9.jpg" width=100%>
 </p>
 
 <h1 align="left"><picture><img src = "Images/projects.gif" width = 40px></picture> Projects</h1>
