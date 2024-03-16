@@ -29,7 +29,7 @@
   <tbody>
     <!-- <tr> ... ONE PROJECT ... </tr> DUPLICATE FOR EVERY PROJECT-->
     <tr>
-      <td><a href="https://github.com/SCORPIA2004/CampusConnect">Campus Connect</a></td>
+      <td><a href="https://github.com/aerowais/Projects/tree/main/Project%201%20-%20Attitude%20dynamics%20using%20quaternion%20kinematics">Campus Connect</a></td>
       <td>A social webapp that connects students together <a href="https://www.figma.com/file/R8BZfCFKQJQwLtaQgkhAHL/Undefined?type=design&node-id=107%3A2&mode=design&t=aNN8YGzyDwz2Z1lV-1" target="blank">Figma</a> | <a href="https://youtu.be/J5G0Qc4Uwq0">Demo</a></td>
       <td>MongoDB | ExpressJS | React | NodeJS</td>
     </tr>
